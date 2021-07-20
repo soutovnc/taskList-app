@@ -24,7 +24,6 @@ _ps: If you need help for making a clone, this [tutorial](https://help.github.co
 2. Change the current working directory to the location where you want the module code saved on your computer. 
 3. Clone this repository by running: <br> `git clone https://github.com/soutovnc/taskList-app`;
 4. Enter the folder running through the terminal: `cd taskList-app`;
-5. Rode `npm i` para instalar as dependências do projeto;
 5. Run `yarn` to install project dependencies;
 6. Run `yarn dev` to start the development server.
 
