@@ -7,7 +7,7 @@ This project was developed with the following technologies:
 
 ## 💻 | Project
 
-Developed for a Rocketseat challenge, i enjoyed the end result, made some changes only.
+Developed for challenge, i enjoyed the end result, made some changes only.
 <br>
 
 ## 🔖 | Layout
